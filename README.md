@@ -1,8 +1,7 @@
-#PORT_DRIVER
+# PORT_DRIVER
 the project aim to implement port diver as AUTOSAR 2.0.3 driver
 
-##Tasks List
-[x] implement port configuration files
-[x] implement port post build congiguration files
-[x] implement port header file
-[x] implement port source file
+## implement port configuration files
+1. [x]implement port post build congiguration files.
+2. [x]implement port header file.
+3. [x]implement port source file.
